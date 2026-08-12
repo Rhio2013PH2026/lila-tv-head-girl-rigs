@@ -58,4 +58,4 @@ For permissions regarding reuse, redistribution, or inclusion in other projects,
 
 ---
 
-Lila the TV head girl © © 2026 Rhio2013PH Studios, Inc. All Rights Reserved
+Lila the TV head girl © 2026 Rhio2013PH Studios, Inc. All Rights Reserved
