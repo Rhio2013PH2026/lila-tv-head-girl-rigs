@@ -48,7 +48,7 @@ Part of the creative projects of Rhio2013PH Studios.
 
 "GitHub Repository" (https://github.com/Rhio2013PH2026/lila-tv-head-girl-rigs/)
 
-📄 Copyright
+# COPYRIGHT
 
 Lila the TV Head Girl and the original artwork/character assets are the creative property of Rhio2013PH unless otherwise stated.
 
