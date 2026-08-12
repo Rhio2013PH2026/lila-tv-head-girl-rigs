@@ -1,16 +1,18 @@
-# Lila the TV head girl — Rigs
+# LILA THE TV HEAD GIRL — RIGS
 
 Lila the TV head girl rigs for creative projects.
 
 This repository contains rigging assets and related resources for Lila the TV Head Girl, an original character created by Rhio2013PH.
 
-# 🎨 About Lila
+# ABOUT LILA
 
 Lila the TV Head Girl is an original character (OC) featuring a television-inspired head design.
 
 This repository focuses specifically on reusable rig assets and graphical resources for Lila.
 
-# 🧩 Available Assets
+https://github.com/Rhio2013PH2026/oc-lila-tv-head-girl/blob/main/Character_Info.txt
+
+# AVAILABLE ASSETS
 
 "png/"
 
@@ -20,7 +22,7 @@ Contains raster-based PNG assets for use in applications and workflows that supp
 
 Contains scalable vector graphics for workflows that require editable and resolution-independent assets.
 
-# 🛠️ Possible Uses
+# POSSIBLE USES
 
 The assets in this repository can be used for creative projects such as:
 
@@ -32,17 +34,17 @@ The assets in this repository can be used for creative projects such as:
 - Animation experiments
 - Other Lila-related projects
 
-# 📌 Project Status
+# PROJECT STATUS
 
 This is an ongoing creative project. Assets may be added, updated, reorganized, or replaced as the Lila character and her rigging system continue to develop.
 
-# 👤 Creator
+# CREATOR
 
 Rhio2013PH
 
 Part of the creative projects of Rhio2013PH Studios.
 
-🔗 Repository
+# REPOSITORY
 
 "GitHub Repository" (https://github.com/Rhio2013PH2026/lila-tv-head-girl-rigs/)
 
