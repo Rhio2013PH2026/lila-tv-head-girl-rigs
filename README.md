@@ -10,7 +10,7 @@ Lila the TV Head Girl is an original character (OC) featuring a television-inspi
 
 This repository focuses specifically on reusable rig assets and graphical resources for Lila.
 
-Learn more about Lila the TV head girl [here](https://github.com/Rhio2013PH2026/oc-lila-tv-head-girl/blob/main/Character_Info.txt)
+Learn more about Lila the TV head girl [here](https://github.com/Rhio2013PH2026/oc-lila-tv-head-girl/blob/main/Character_Info.txt).
 
 # AVAILABLE ASSETS
 
