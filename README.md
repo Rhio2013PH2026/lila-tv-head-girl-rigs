@@ -55,6 +55,7 @@ Lila the TV Head Girl and the original artwork/character assets are the creative
 Please do not claim the character or original assets as your own.
 
 For permissions regarding reuse, redistribution, or inclusion in other projects, contact the creator.
+[Main email](altrhioreynes@gmail.com) or [Outlook](rhioreynes@outlook.com)
 
 ---
 
